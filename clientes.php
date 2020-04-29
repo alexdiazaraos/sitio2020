@@ -13,7 +13,7 @@
         <div class="row mt-5">
             <div class="col-6 offset-3">
                 <div class="card rounded shadow">
-                    <div class="card-header">Registro de Clientes</div>
+                <div class="card-header bg-success text-white h3">Registro de Clientes</div>
                     <div class="card-body">
                         <form action="" method="post">
                             <div class="form-group">
@@ -22,7 +22,7 @@
                             </div>
                         </form>
                     </div>
-                    <div class="card-footer">Taller de Integración de Software 2020</div>
+                    <div class="card-footer bg-success text-white">Taller de Integraci<C3><B3>n de Software 2020</div>
                 </div>
             </div>
         </div>
