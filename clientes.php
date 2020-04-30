@@ -16,9 +16,13 @@
                 <div class="card-header bg-success text-white h3">Registro de Clientes</div>
                     <div class="card-body">
                         <form action="" method="post">
-                            <div class="form-group">
+                            <div class="form-group col-8 offset-2">
                                 <label for="run"></label>
-                                <input type="text" name="run" id="run" class="form-control">
+                                <input type="text" name="run" id="run" class="form-control" placeholder="ingrese su RUT">
+                            </div>
+                            <div class="form-group col-8 offset-2">
+                                <label for="nombre"></label>
+                                <input type="text" name="nombre" id="nombre" class="form-control" placeholder="ingrese su Nombre">
                             </div>
                         </form>
                     </div>
